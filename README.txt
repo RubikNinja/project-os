@@ -1,0 +1,1 @@
+Project OS v1.8. Upload the extracted contents of this ZIP (index.html, manifest.webmanifest, sw.js, icons/) to the ROOT of your GitHub Pages repository. Do not upload the ZIP itself as a single file. Existing browser data stays in localStorage. Back up before deploying.
